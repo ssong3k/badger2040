@@ -1,7 +1,6 @@
-mustelid inc
-H. Badger
-RP2040
-2MB Flash
-E ink
-296x128px
+Adobe Inc.
+Steven Song
+Gopher Con
+- 2024
+If you can read this, you're too close
 /badges/badge.jpg
